@@ -13,4 +13,7 @@ console.log("1"-1); // 0
 console.log("1"*1); // 1
 console.log("1"/1); // 1
 
+// take number input from user and print.
 
+const age = Number(prompt("Enter your age: "));
+console.log(age);
