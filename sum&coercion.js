@@ -15,5 +15,5 @@ console.log("1"/1); // 1
 
 // take number input from user and print.
 
-const age = Number(prompt("Enter your age: ")); // type casting
+const age = Number(prompt("Enter your age: ")); 
 console.log(age);
