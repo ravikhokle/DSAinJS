@@ -9,4 +9,3 @@ console.log(b);
 let c = false; 
 c++;
 console.log(c);
-
